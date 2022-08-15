@@ -9,3 +9,6 @@ Graphics of the game are of different style for different levels. The Easy level
 
 ## UML Class Diagram
 ![UML Class Diagram](https://github.com/hharpreetk/FlappyBirdReturns/blob/main/uml/class_diagram.jpg)
+
+## Installation
+Download and run setup.exe in [publish directory](https://github.com/hharpreetk/FlappyBirdReturns/blob/main/publish/setup.exe)
