@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Music/button.wav</SourceFile>
+  <SourceTime>2019-12-06T15:39:30.7146906-05:00</SourceTime>
+  <DestFile>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/bin/Windows/Music/button.xnb</DestFile>
+  <DestTime>2019-12-10T15:36:04.5194837-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2018-12-08T11:35:54-05:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T11:35:54-05:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

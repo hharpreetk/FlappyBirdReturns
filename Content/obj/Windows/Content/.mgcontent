@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/../../../../Assignments/Final Project/Flappy grumpy bird game character/Flappy Bird Assets/background1.jpg</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/../../../../Assignments/Final Project/Flappy grumpy bird game character/Flappy Bird Assets/Flappy Pink Bird/PNG/pinkbird1.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/../../../../Assignments/Final Project/Flappy grumpy bird game character/Flappy Bird Assets/Flappy Pink Bird/PNG/pinkbird2.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/../../../../Assignments/Final Project/Flappy grumpy bird game character/Flappy Bird Assets/Flappy Pink Bird/PNG/pinkbird3.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/../../../../Assignments/Final Project/Flappy grumpy bird game character/Flappy Bird Assets/Flappy Pink Bird/PNG/pinkbird4.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Fonts/File.spritefont</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Fonts/highlightFont.spritefont</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/about.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/b1.jpg</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/background1.jpg</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/background2.jpg</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/background-day.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/cursor.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/flappy.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/GameOver.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/Help.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/instruc.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/pinkbird1.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/pinkbird2.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/pinkbird3.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/pinkbird4.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/pipe.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/pipetex.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/pixel.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/sand.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Images/scroll.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/LevelImages/levelScreen1.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/LevelImages/levelScreen2.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/LevelImages/levelScreen3.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Lvl2Images/bluebird1.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Lvl2Images/bluebird2.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Lvl2Images/bluebird3.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Lvl2Images/bluebird4.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Lvl3Images/backg1.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Lvl3Images/backg2.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Lvl3Images/dragon1.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Lvl3Images/dragon2.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Lvl3Images/dragon3.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Lvl3Images/dragon4.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Lvl3Images/GameOver.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Lvl3Images/lava.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Lvl3Images/lvl3Obstacle.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Lvl3Images/pixel.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Menu/About.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Menu/button.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Menu/Credits.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Menu/highlightbutton.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Menu/HighScore.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Menu/menuFont.spritefont</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Menu/Quit.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Menu/StartGame.png</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Music/button.wav</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Music/FlappyBirdThemeSong.mp3</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Music/gameover.wav</File>
+    <File>C:/Fall 2019/PROG23706/Final Project/HKaurFinalProject/HKaurFinalProject/Content/Music/hit.wav</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Images/background1.jpg</File>
+    <File>Images/pinkbird1.png</File>
+    <File>Images/pinkbird2.png</File>
+    <File>Images/pinkbird3.png</File>
+    <File>Images/pinkbird4.png</File>
+    <File>Fonts/score.spritefont</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
